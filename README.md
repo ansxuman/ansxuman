@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://aenmo.dev/img/aenmo.gif" width="1200px" height="250px"> 
 </img>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm AEn Mo</h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anshuman aka <a href="https="aenmo.dev">aenmo</a></h1>
 </div>
 
 <h2 align="left">
