@@ -91,6 +91,6 @@ Workspace </h2>
 
 <div align="center">
   <a href="https://aenmo.dev">
-  <img  src="https://github.com/aenmo/aenmo.dev/blob/main/img/snake.svg"
+  <img  src="https://aenmo.dev/img/snake.svg"
        alt="snake" /></a>
 </div>
