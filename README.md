@@ -1,7 +1,5 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <div align="center">
-<img src="https://aenmo.dev/img/aenmo.gif"> 
-</img>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anshuman aka <a href="https://www.aenmo.dev">aenmo</a></h1>
 </div>
 
