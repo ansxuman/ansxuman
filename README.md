@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <div align="center">
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anshuman aka <a href="https://www.aenmo.dev">aenmo</a></h1>
-</div>
+<!-- <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anshuman aka <a href="https://www.aenmo.dev">aenmo</a></h1>
+</div> -->
 
 <h2 align="left">
 About Me </h2>
@@ -85,8 +85,3 @@ Workspace </h2>
 </p>
   <h2></h2>
 
-<div align="center">
-  <a href="https://aenmo.dev">
-  <img  src="https://aenmo.dev/img/snake.svg"
-       alt="snake" /></a>
-</div>
