@@ -1,20 +1,41 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<div align="center">
+<div align="left">
 <!-- <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anshuman aka <a href="https://www.aenmo.dev">aenmo</a></h1>
 </div> -->
 
 <h2 align="left">
 About Me </h2>
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
 
+```go
+package main
 
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-- <img src="https://toppng.com/uploads/preview/harry-potter-icon-harry-potter-icon-11553428502blqks9irrl.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://w7.pngwing.com/pngs/913/944/png-transparent-gray-and-green-snake-and-shield-logo-harry-potter-and-the-philosopher-s-stone-sorting-hat-slytherin-house-hogwarts-harry-potter-harry-potter-and-the-philosopher-s-stone-sorting-thumbnail.png">
+import "fmt"
 
+type Developer struct {
+    Code              []string
+    Interests         []string
+    OperatingSystems  []string
+    ToolsUsed         []string
+    IDEs              []string
+}
+
+func main() {
+   aenmo := Developer{
+        Code:             []string{"Golang", "Svelte","Angular", "TS", "JS","Java", "Swift"},
+        Interests:        []string{"Cybersecurity", "Reversing", "Backend Development", "Frontend Development"},
+        OperatingSystems: []string{"macOS 14 Sonoma", "Bookworm"},
+        ToolsUsed:        []string{"Git Bash", "Parallels", "Termius", "Postman"},
+        IDEs:             []string{"VS Code", "Andorid Studio","Swift", "neovim"},
+    }
+
+    fmt.Printf("👋 Hello! I'm aenmo, a developer.\n")
+    fmt.Printf("💻 Code: %v\n",aenmo.Code)
+    fmt.Printf("🌐 Interests: %v\n",aenmo.Interests)
+    fmt.Printf("🖥️ Operating Systems: %v\n",aenmo.OperatingSystems)
+    fmt.Printf("🛠️ Tools Used: %v\n",aenmo.ToolsUsed)
+}
+```
 
 <br />
 <br />
@@ -58,21 +79,14 @@ Technologies and Languages </h2>
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a> 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
 
   <h3> + many more! </h3>
 
