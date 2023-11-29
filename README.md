@@ -22,7 +22,7 @@ type Developer struct {
 
 func main() {
    aenmo := Developer{
-        Code:             []string{"Golang", "Svelte","Angular", "TS", "JS","Java", "Swift"},
+        Code:             []string{"Golang", "Svelte","Angular", "TS", "JS","Java", "Swift","Rust"},
         Interests:        []string{"Cybersecurity", "Reversing", "Backend Development", "Frontend Development"},
         OperatingSystems: []string{"macOS 14 Sonoma", "Bookworm"},
         ToolsUsed:        []string{"Git Bash", "Parallels", "Termius", "Postman"},
