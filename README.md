@@ -6,6 +6,11 @@
 <h2 align="left">
 About Me </h2>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Ansxuman+%28aka+Anshuman%29;Full+Stack+Developer+%26+Open+Source+Enthusiast;Passionate+about+Building+Projects">
+
+</p>
+
 
 ```go
 package main
