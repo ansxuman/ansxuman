@@ -28,10 +28,10 @@ type Developer struct {
 func main() {
    aenmo := Developer{
         Code:             []string{"Golang", "Svelte","Angular", "TS", "JS","Java", "Swift","Rust"},
-        Interests:        []string{"Cybersecurity", "Reversing", "Backend Development", "Frontend Development"},
-        OperatingSystems: []string{"macOS 14 Sonoma", "Bookworm"},
-        ToolsUsed:        []string{"Git Bash", "Parallels", "Termius", "Postman"},
-        IDEs:             []string{"VS Code", "Andorid Studio","Swift", "neovim"},
+        Interests:        []string{"Reversing", "Backend Development", "Frontend Development","Cybersecurity"},
+        OperatingSystems: []string{"macos 15 Sequoia", "Bookworm"},
+        ToolsUsed:        []string{"Parallels", "Termius", "Postman"},
+        IDEs:             []string{"Cursor","Zed" "Andorid Studio","Xcode", "neovim"},
     }
 
     fmt.Printf("👋 Hello! I'm aenmo, a developer.\n")
