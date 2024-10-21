@@ -1,7 +1,5 @@
 ![Github Banner](banner.png)
 <div align="left">
-<!-- <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anshuman aka <a href="https://www.aenmo.dev">aenmo</a></h1>
-</div> -->
 
 <h2 align="left">
 About Me </h2>
@@ -26,7 +24,7 @@ type Developer struct {
 }
 
 func main() {
-   aenmo := Developer{
+   ansxuman := Developer{
         Code:             []string{"Golang", "Svelte","Angular", "TS", "JS","Java", "Swift","Rust"},
         Interests:        []string{"Reversing", "Backend Development", "Frontend Development","Cybersecurity"},
         OperatingSystems: []string{"macos 15 Sequoia", "Bookworm"},
@@ -34,11 +32,11 @@ func main() {
         IDEs:             []string{"Cursor","Zed" "Andorid Studio","Xcode", "neovim"},
     }
 
-    fmt.Printf("👋 Hello! I'm aenmo, a developer.\n")
-    fmt.Printf("💻 Code: %v\n",aenmo.Code)
-    fmt.Printf("🌐 Interests: %v\n",aenmo.Interests)
-    fmt.Printf("🖥️ Operating Systems: %v\n",aenmo.OperatingSystems)
-    fmt.Printf("🛠️ Tools Used: %v\n",aenmo.ToolsUsed)
+    fmt.Printf("👋 Hello! I'm ansxuman, a developer.\n")
+    fmt.Printf("💻 Code: %v\n",ansxuman.Code)
+    fmt.Printf("🌐 Interests: %v\n",ansxuman.Interests)
+    fmt.Printf("🖥️ Operating Systems: %v\n",ansxuman.OperatingSystems)
+    fmt.Printf("🛠️ Tools Used: %v\n",ansxuman.ToolsUsed)
 }
 ```
 
