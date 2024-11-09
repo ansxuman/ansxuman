@@ -1,6 +1,18 @@
 ![Github Banner](banner.png)
 <div align="left">
 
+### Hi there, I'm <a href="https://ssh-i.in" target="_blank">Anshuman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansxuman/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ssh-i.in)
+[![X Badge](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ansxuman)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ansxuman/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ansxuman)
+[![Dev.to Badge](https://img.shields.io/badge/-dev.to-333333?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ansxuman)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ansxuman)
+[![Pexels Badge](https://img.shields.io/badge/-Pexels-05A081?style=flat-square&logo=pexels&logoColor=white)](https://pexels.com/@ansxuman)
+
+
 <h2 align="left">
 About Me </h2>
 
