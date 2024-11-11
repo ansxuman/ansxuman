@@ -1,6 +1,51 @@
 ![Github Banner](banner.png)
 <div align="left">
 
+<h2 align="left">
+Connect With Me </h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansxuman/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ssh-i.in)
+[![X Badge](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ansxuman)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ansxuman/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ansxuman)
+[![Dev.to Badge](https://img.shields.io/badge/-dev.to-333333?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ansxuman)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ansxuman)
+[![Pexels Badge](https://img.shields.io/badge/-Pexels-05A081?style=flat-square&logo=pexels&logoColor=white)](https://pexels.com/@ansxuman)
+
+<h2 align="left">
+About Me </h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0d8ece&size=30&center=true&vCenter=true&width=800&height=80&lines=Hey+there!+I'm+Anshuman;Full+Stack+Developer+%26+Open+Source+Enthusiast;Passionate+about+Building+Projects;I+Love+Solving+Problems;Writing+Articles+in+my+free+time">
+</p>
+
+```go
+package main
+import "fmt"
+type Developer struct {
+    Code              []string
+    Interests         []string
+    OperatingSystems  []string
+    ToolsUsed         []string
+    IDEs              []string
+}
+func main() {
+   ansxuman := Developer{
+        Code:             []string{"Golang", "Svelte","Angular", "TS", "JS","Java", "Swift","Rust"},
+        Interests:        []string{"Reversing", "Backend Development", "Frontend Development","Cybersecurity"},
+        OperatingSystems: []string{"macos 15 Sequoia", "Bookworm"},
+        ToolsUsed:        []string{"Parallels", "Termius", "Postman"},
+        IDEs:             []string{"Cursor","Zed" "Andorid Studio","Xcode", "neovim"},
+    }
+    fmt.Printf("👋 Hello! I'm ansxuman, a developer.\n")
+    fmt.Printf("💻 Code: %v\n",ansxuman.Code)
+    fmt.Printf("🌐 Interests: %v\n",ansxuman.Interests)
+    fmt.Printf("🖥️ Operating Systems: %v\n",ansxuman.OperatingSystems)
+    fmt.Printf("🛠️ Tools Used: %v\n",ansxuman.ToolsUsed)
+}
+```
+<br />
 <h2 align="left">Technologies and Languages</h2>
 
 <h3 align="left">Languages</h3>
@@ -61,6 +106,9 @@ Workspace </h2>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
   <h2></h2>
+
+<h2 align="left">
+Stats </h2>
 
 ![](https://komarev.com/ghpvc/?username=ansxuman&style=for-the-badge)
 
