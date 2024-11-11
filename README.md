@@ -4,14 +4,14 @@
 <h2 align="left">
 Connect With Me </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ansxuman/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ssh-i.in)
-[![X Badge](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ansxuman)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ansxuman/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ansxuman)
-[![Dev.to Badge](https://img.shields.io/badge/-dev.to-333333?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ansxuman)
-[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ansxuman)
-[![Pexels Badge](https://img.shields.io/badge/-Pexels-05A081?style=flat-square&logo=pexels&logoColor=white)](https://pexels.com/@ansxuman)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/ansxuman/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](https://ssh-i.in)
+[![X Badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&scale=2)](https://twitter.com/ansxuman)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&scale=2)](https://instagram.com/ansxuman/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&scale=2)](https://medium.com/@ansxuman)
+[![Dev.to Badge](https://img.shields.io/badge/-dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=white&scale=2)](https://dev.to/ansxuman)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&scale=2)](https://hashnode.com/@ansxuman)
+[![Pexels Badge](https://img.shields.io/badge/-Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white&scale=2)](https://pexels.com/@ansxuman)
 
 <h2 align="left">
 About Me </h2>
