@@ -40,12 +40,8 @@
 <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" /> 
 </a>
-<a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="git"/>
-</a>
 
 <h3 align="left">IDEs</h3>
 
