@@ -2,7 +2,7 @@
 <div align="left">
 
 <h2 align="left">
-Connect With Me </h2>
+Where to find me: </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&scale=2)](https://www.linkedin.com/in/ansxuman/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&scale=2)](https://ssh-i.in)
@@ -107,7 +107,7 @@ Workspace </h2>
 </p>
 
 <h2 align="left">
-Stats </h2>
+Profile Views </h2>
 
 ![](https://komarev.com/ghpvc/?username=ansxuman&style=for-the-badge)
 
