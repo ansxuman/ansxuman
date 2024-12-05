@@ -103,7 +103,8 @@ Workspace </h2>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-### ⚙️ GitHub Analytics
+<h2 align="left"> ⚙️ GitHub Analytics
+ </h2>
 
 <p align="center">
 <a href="https://github.com/ansxuman">
