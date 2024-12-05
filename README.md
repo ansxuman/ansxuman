@@ -103,6 +103,15 @@ Workspace </h2>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+### ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ansxuman">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansxuman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ansxuman&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <h2 align="left">
 Profile Views </h2>
 
